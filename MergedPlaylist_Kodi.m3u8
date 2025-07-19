@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
-# Last forced update: 2025-07-19T20:14:24.235655Z
+# Last forced update: 2025-07-19T22:09:31.942569Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -10801,39 +10801,41 @@ https://nextcast.click/hls/HDGQ12/index.m3u8?st=AObORGXrKfp_4E-ogRWJjw&e=1752957
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Sporting Kansas City vs. New York City FC Live Stream
 https://nextcast.click/hls/HDGQ13/index.m3u8?st=3SGMPdkmBFnZOD_kC5nd8A&e=1752957831|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko%2F20100101%20Firefox%2F139.0&Origin=https%3A%2F%2Fstreamscenter.online&Referer=https%3A%2F%2Fstreamscenter.online%2F
 
-#EXTGRP:StreamedSU - Basketball
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBlwMfsCT8Q3EABNcu1SBQgIIPpd0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Basketball",Minnesota Timberwolves vs Houston Rockets (English - HD)
-https://rr.strmd.top/secure/ccPQTtQfGq/delta/stream/live_nba-summer-league_timberwolves-rockets-live-streaming-954959085/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gUoWGFEATENxAk9RkEZggIIRMsIxgTPurZby9eaPVNaYLWNEQgA.webp" group-title="StreamedSU - Basketball",New York Knicks vs Washington Wizards (English - HD)
-https://rr.strmd.top/secure/UouNvFtXmF/delta/stream/live_nba-summer-league_knicks-wizards-live-streaming-954958086/1/playlist.m3u8
-
 #EXTGRP:StreamedSU - Fight (UFC, Boxing)
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Ryan Garner vs Reece Bellotti (English - SD)
-https://rr.strmd.top/secure/ZPXiJXlegM/alpha/stream/ufc-318-post-fight-press-conference/3/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAE2C4BjUSYAUzAE4ELTh4UBWW4NYXFnPMUhTDgoiN3L00o4FxLAADAmABDYIyjk8eemXhg8UhrEUE8rMBuLkaapmGPBBkiEA.webp" group-title="StreamedSU - Fight (UFC, Boxing)",Oleksandr Usyk vs Daniel Dubois (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkZ2YyUTMlZGZlVTMtU2M4EWLxcjM00SO3EWNtgDN2Q2M2M2M/master.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",UFC 318 Holloway vs Poirier 3 (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kTNxczY3IGNhNDZtcDZmJWLiJjY00CN3gzMtQjNwQ2M4YmM/master.m3u8
 
 #EXTGRP:StreamedSU - Football
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyhIEIEM1ghuIACa4QKEDBAkjGsyAgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Columbus Crew vs DC United (English - HD)
-https://rr.strmd.top/secure/SZqKbqzwNl/charlie/stream/columbus-crew-vs-dc-united-1326552/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhFVEChDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title="StreamedSU - Football",Donau Linz vs FC BW Linz (English - HD)
-https://rr.strmd.top/secure/QCYSLTsMWd/charlie/stream/sacramento-republic-vs-lexington-1327164/1/playlist.m3u8
+https://rr.strmd.top/secure/UUHElMToug/charlie/stream/alta-vs-naples-1326862/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYcChDgNIbiBUgYuXYZCI9WvgQpMrXMGXhF5olMCa0wDsaIhA.webp" group-title="StreamedSU - Football",FC Dallas vs St. Louis City SC (English - HD)
-https://rr.strmd.top/secure/qCpJNTTtpg/charlie/stream/fc-dallas-vs-st-louis-city-1326556/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACm8pLh4huIACYgYuHYZCIDiEAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Los Angeles FC vs LA Galaxy (English - HD)
-https://rr.strmd.top/secure/fJIEHlHzlx/charlie/stream/los-angeles-fc-vs-los-angeles-galaxy-1326562/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wvMgBMwIENz2rcIGCEQkDJlCBQEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Motor Lublin vs Arka Gdynia (English - HD)
-https://rr.strmd.top/secure/CTfqfEdRoe/charlie/stream/rapid-vienna-vs-fc-union-1629451530/2/playlist.m3u8
+https://rr.strmd.top/secure/EdkJJhOlol/charlie/stream/fc-dallas-vs-st-louis-city-1326556/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBCWMH0gg+IbiAAmIGLj3GQiE0cYUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Nashville SC vs Toronto FC (English - HD)
+https://rr.strmd.top/secure/haOIxRxJtX/charlie/stream/nashville-sc-vs-toronto-fc-1326559/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwosD1zAwqkABMQiFCAggTibqaMEKTPii7ry9eaMdNaYdWNEQgA.webp" group-title="StreamedSU - Football",New England Revolution vs Orlando City (English - HD)
-https://rr.strmd.top/secure/zqdLrwyuEc/charlie/stream/new-england-revolution-vs-orlando-city-sc-1326554/1/playlist.m3u8
+https://rr.strmd.top/secure/pNTnLwnMTq/charlie/stream/new-england-revolution-vs-orlando-city-sc-1326554/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgyKaABMwKENxAQQfEIhImQmgxdwEKTPii5ry9eaMdNaYNWNEQgA.webp" group-title="StreamedSU - Football",New York Red Bulls vs Inter Miami (English - HD)
+https://rr.strmd.top/secure/HHaJdbDDKE/charlie/stream/new-york-red-bulls-vs-inter-miami-1326555/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNUmBhgAEx4huIEkZA6QEEJcsxcuAhSZ8UXMGXhF5o501phXY0QggA.webp" group-title="StreamedSU - Football",Real Salt Lake vs FC Cincinnati (English - HD)
-https://rr.strmd.top/secure/SmkgCFYpoU/charlie/stream/real-salt-lake-vs-fc-cincinnati-1326561/1/playlist.m3u8
+https://rr.strmd.top/secure/bfGLWkoWws/charlie/stream/real-salt-lake-vs-fc-cincinnati-1326561/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIePXIMAxs3E94IqtwJdWYMLnxmgA.webp" group-title="StreamedSU - Football",Reims vs OH Leuven (English - HD)
+https://rr.strmd.top/secure/UUHElMToug/charlie/stream/alta-vs-naples-1326862/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="StreamedSU - Football",San Diego FC vs Vancouver Whitecaps (English - HD)
-https://rr.strmd.top/secure/cvbnWeVHxO/charlie/stream/san-diego-vs-vancouver-whitecaps-1326732/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphClOVRABMQ3ECVwgYIPiBQhtZ3YwpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Sliema Wanderers vs Valletta (English - HD)
-https://rr.strmd.top/secure/LNrilaYtcN/charlie/stream/tbd-vs-tbd-1629451559/1/playlist.m3u8
+https://rr.strmd.top/secure/EfWonbxzmb/charlie/stream/san-diego-vs-vancouver-whitecaps-1326732/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Seattle Sounders FC vs San Jose Earthquakes (English - HD)
+https://rr.strmd.top/secure/GimAXOzQtX/charlie/stream/seattle-sounders-vs-san-jose-earthquakes-1326560/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDcwZOOD4huICCG2ISIRABMQxmHoIUmfFF3Xl680Q6a0w6saIhA.webp" group-title="StreamedSU - Football",Sporting Kansas City vs New York City FC (English - HD)
-https://rr.strmd.top/secure/BmzrwjUMTs/charlie/stream/sporting-kansas-city-vs-new-york-city-fc-1326558/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCmX1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="StreamedSU - Football",Super Cup: Union Saint-Gilloise vs Club Brugge (English - HD)
-https://rr.strmd.top/secure/GhunhaQmjh/charlie/stream/union-saint-gilloise-vs-club-brugge-1629451539/1/playlist.m3u8
+https://rr.strmd.top/secure/FKCSzarHgb/charlie/stream/sporting-kansas-city-vs-new-york-city-fc-1326558/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YJGAAmwLdpDcQWkDBAoTIS+fOm+BCkztcwZeEXmiUwJrTAuxohBAA.webp" group-title="StreamedSU - Football",York United vs Vancouver FC (English - HD)
+https://rr.strmd.top/secure/WeKeatRQgf/charlie/stream/york-united-vs-vancouver-fc-1350748/1/playlist.m3u8
+
+#EXTGRP:StreamedSU - Motor Sports
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Indycar 2025 - GP of Monterey (English - HD)
+https://rr.strmd.top/secure/xndPkPqQxl/charlie/stream/muckleshoot-casino-resort-northwest-nationals-1629451557/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Motocross Rd. 25: Washougal (English - HD)
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0cjMxUjZ1YGZhhTMtIDOllTLkFjN00iYzEDOtgzN1IjMhZTN/master.m3u8
 
 #EXTGRP:TheTVApp
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E (HD)
@@ -11326,6 +11328,8 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/szbo55s91rn5itcxm7760d
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/5a322cdd04ff28608dfebb4d9fe5babc.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/dazn1.png" ,DAZN 1 UK
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/29f80fe360ea09758cda99ec2eb61fd2.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/05/31/1717194365738_dirtzone_thumbnail.png?impolicy=resize&w=1920&h=1080" ,DIRT Zone (Live Stream)
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/4164e856e6de5ac34de77e07b2c7b45c.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/03/17/1715300867054-64c720a301f24f34820b4c7143ff5bd2-1737996577673-1742219029838.webp?impolicy=resize&w=1920&h=1080" ,Dirtvision Now 24/7
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/761db9084b4158f600b5486760ba70f4.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/disney.png" ,Disney Channel
@@ -11334,6 +11338,8 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/gT6mA1xL8nU5dY2eR7wB9v
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/59a7cb5768532c91ca57207eaeb9b838.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/disney-xd-hd-us.png?raw=true" ,Disney XD
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/d1a53d061de53b59499c1616accb42a2.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/12/04/7-19-25-SC-1733337469479.png?impolicy=resize&w=1920&h=1080" ,Eldora Speedway (Live Stream)
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/b80e8f20f6f8cd66886266102d3b82d3.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espn.png" ,ESPN
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/tgcyutly3zujtd3bgef8nevyy5v5n301.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png" ,ESPN Deportes
@@ -11366,8 +11372,6 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/be3900a8819013eef554d9
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/58582ebdda51b171777a15c61e74a089.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox506.png" ,Fox Sports 506
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/ac0dfaf43b236054ea5ebe5862b68d00.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wqltro1752918500.jpg" ,France vs Germany (Live Stream)
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/o282ztvzyz2nv82nowu477d4zriul8ji.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fs1.png" ,FS1
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/j7xysrst3ytbc4h50of84mmbyrn4ba9v.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fs2.png" ,FS2
@@ -11376,10 +11380,12 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/9bfdo7kxd45sst08hbuh6r
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/92399eaa937b3e8386b43ed0e15150e2.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" ,History
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/77a76af9eb9c6461b0b61c1e9571b08d.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://cdn.streamonline.pro/playlive-net/content/213/xtb108_logo.png" ,KSW 108 (Live Stream)
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/5b0a563e58ff52f3d93914cd3130a8ea.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/10/25/7-19-25-Knox-1729876993555.png?impolicy=resize&w=1920&h=1080" ,Knoxville Raceway (Live Stream)
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/1e9970317a9e4050f4c95c88b58da284.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png" ,LaLiga TV
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/pajip6maru1rlcoz1qizebitocof4aP7.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/677da647695a9.png" ,Lucas Oil Silver Dollar Nationals at Huset's Speedway (Live Stream)
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/979748d3a70f0c235493109060a201c4.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/marquee.png" ,Marquee Sports Network
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/92ff2c60b22c6f909fee98e91d64c112.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" ,MeTV
@@ -11408,14 +11414,10 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/66f1d01f0ac16b38e4e9bc
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/e07a573f0a6ea861a83fc63aa1fdf2cb.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" ,Nicktoons
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/eff5b3158442c734ab5e1ec6dc11960b.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/1gvrcijik5hgv1c1gj85ppbnnq_image-header_pUs_1752754792000/fill/center/top/none/85/1920/1084/webp/image" ,Odiase vs. Govedarica (Live Stream)
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/121d0b2b1a988cd74497d198fd168a06.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/orfs.png" ,ORF SPORT+
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/1250e745781e9041b7d98ba02e82edc8.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://www.ppv.com/event-management/www.ppv.com/assets/events/1751372097854_2507_Pac_v_Barrios_WEB_1920x720.jpg" ,Pacquiao vs. Barrios (Live Stream)
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/5f2a35492d9ec9dc59da3c2ae89d04ee.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://artwork.espncdn.com/programs/f1295bf4-0e9c-44d3-a70b-00d2cd1778e1/16x9/1280x720_20250715143849.jpg" ,PFL Champions Series Road to Dubai: Cape Town (Live Stream)
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/a95973298062710eed8e6ee9a127d9c4.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/permier1.png" ,Premier Sports 1 IE
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/aE5dT9yH2uJ8gP1zWn7fK4oL6mV3cB.m3u8|Origin=https%3A%2F%2Fkleanembed.online&Referer=https%3A%2F%2Fkleanembed.online%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/permier2.png" ,Premier Sports 2 IE
