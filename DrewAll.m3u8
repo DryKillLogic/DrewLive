@@ -433,7 +433,7 @@ https://swimrewind.com/hls/0/stream.m3u8?cachebust=215d168f
 https://mthrbord.tv/hls/0/stream.m3u8
 #EXTINF:-1  tvg-name="TheUpperLeft" tvg-id="24.7.Dummy.us" tvg-logo="https://theupperleft.thesprawl.online/logo" group-title="DrewLive Fan Made TV" radio="false",TheUpperLeft
 https://theupperleft.thesprawl.online/hls/0/stream.m3u8?cachebust=2f690bd7
-#EXTINF:-1  tvg-name="Toonami Aftermath East" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="DrewLive Fan Made TV" radio="false",Toonami Aftermath East
+#EXTINF:-1  tvg-name="Toonami Aftermath East" tvg-id="toonami" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="DrewLive Fan Made TV" radio="false",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1  tvg-name="Toonami Aftermath Movies" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="DrewLive Fan Made TV" radio="false",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
