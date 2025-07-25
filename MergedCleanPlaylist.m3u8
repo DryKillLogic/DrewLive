@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
-# Last forced update: 2025-07-25T14:13:25.187453Z
+# Last forced update: 2025-07-25T16:58:41.198871Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -2746,6 +2746,66 @@ https://v12.thetvapp.to/hls/mlb-29/tracks-v2a1/mono.m3u8?token=qIn4IbdZNpi1I4rqp
 https://v17.thetvapp.to/hls/mlb-30/tracks-v2a1/mono.m3u8?token=XXD66tpBjToXdd1jDS35bg&expires=1753450726&user_id=SUkzRklaMFdkOE5iUGVFMDlUYlJCNHAwZFJtQ1JWOFh1Sjh6dTZidQ==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Cleveland Guardians - 7/24/25, 5:11:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Baltimore Orioles @ Cleveland Guardians - 7/24/25, 5:11:00 PM UTC
 https://v18.thetvapp.to/hls/mlb-30/tracks-v1a1/mono.m3u8?token=W38vMnI-btWLqiBTqJImBw&expires=1753450731&user_id=SUkzRklaMFdkOE5iUGVFMDlUYlJCNHAwZFJtQ1JWOFh1Sjh6dTZidQ==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks @ Pittsburgh Pirates (07/25 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Arizona Diamondbacks @ Pittsburgh Pirates (07/25 6:41 Pm Et) Hd
+https://tvpass.org/live/mlb-26/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks @ Pittsburgh Pirates (07/25 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Arizona Diamondbacks @ Pittsburgh Pirates (07/25 6:41 Pm Et) Sd
+https://tvpass.org/live/mlb-26/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Texas Rangers (07/25 8:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Atlanta Braves @ Texas Rangers (07/25 8:06 Pm Et) Hd
+https://tvpass.org/live/mlb-13/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Texas Rangers (07/25 8:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Atlanta Braves @ Texas Rangers (07/25 8:06 Pm Et) Sd
+https://tvpass.org/live/mlb-13/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Chicago White Sox (07/25 7:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ Chicago White Sox (07/25 7:41 Pm Et) Hd
+https://tvpass.org/live/mlb-03/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Chicago White Sox (07/25 7:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ Chicago White Sox (07/25 7:41 Pm Et) Sd
+https://tvpass.org/live/mlb-03/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Kansas City Royals (07/25 8:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Kansas City Royals (07/25 8:11 Pm Et) Hd
+https://tvpass.org/live/mlb-05/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Kansas City Royals (07/25 8:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Kansas City Royals (07/25 8:11 Pm Et) Sd
+https://tvpass.org/live/mlb-05/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Baltimore Orioles (07/25 7:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Baltimore Orioles (07/25 7:06 Pm Et) Hd
+https://tvpass.org/live/mlb-17/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Baltimore Orioles (07/25 7:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Baltimore Orioles (07/25 7:06 Pm Et) Sd
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Boston Red Sox (07/25 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Dodgers @ Boston Red Sox (07/25 7:11 Pm Et) Hd
+https://tvpass.org/live/mlb-22/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Boston Red Sox (07/25 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Dodgers @ Boston Red Sox (07/25 7:11 Pm Et) Sd
+https://tvpass.org/live/mlb-22/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Milwaukee Brewers (07/25 4:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Milwaukee Brewers (07/25 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-16/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Milwaukee Brewers (07/25 4:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Milwaukee Brewers (07/25 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-16/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ San Francisco Giants (07/25 10:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ San Francisco Giants (07/25 10:16 Pm Et) Hd
+https://tvpass.org/live/mlb-27/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ San Francisco Giants (07/25 10:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ San Francisco Giants (07/25 10:16 Pm Et) Sd
+https://tvpass.org/live/mlb-27/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Houston Astros (07/25 8:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Houston Astros (07/25 8:11 Pm Et) Hd
+https://tvpass.org/live/mlb-06/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Houston Astros (07/25 8:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Houston Astros (07/25 8:11 Pm Et) Sd
+https://tvpass.org/live/mlb-06/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ New York Yankees (07/25 7:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ New York Yankees (07/25 7:06 Pm Et) Hd
+https://tvpass.org/live/mlb-15/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ New York Yankees (07/25 7:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ New York Yankees (07/25 7:06 Pm Et) Sd
+https://tvpass.org/live/mlb-15/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ St. Louis Cardinals (07/25 7:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Diego Padres @ St. Louis Cardinals (07/25 7:16 Pm Et) Hd
+https://tvpass.org/live/mlb-08/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ St. Louis Cardinals (07/25 7:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Diego Padres @ St. Louis Cardinals (07/25 7:16 Pm Et) Sd
+https://tvpass.org/live/mlb-08/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Los Angeles Angels (07/25 9:39 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Seattle Mariners @ Los Angeles Angels (07/25 9:39 Pm Et) Hd
+https://tvpass.org/live/mlb-29/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Los Angeles Angels (07/25 9:39 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Seattle Mariners @ Los Angeles Angels (07/25 9:39 Pm Et) Sd
+https://tvpass.org/live/mlb-29/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Cincinnati Reds (07/25 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Cincinnati Reds (07/25 7:11 Pm Et) Hd
+https://tvpass.org/live/mlb-04/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Cincinnati Reds (07/25 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Cincinnati Reds (07/25 7:11 Pm Et) Sd
+https://tvpass.org/live/mlb-04/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Detroit Tigers (07/25 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Detroit Tigers (07/25 7:11 Pm Et) Hd
+https://tvpass.org/live/mlb-21/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Detroit Tigers (07/25 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Detroit Tigers (07/25 7:11 Pm Et) Sd
+https://tvpass.org/live/mlb-21/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Minnesota Twins (07/25 8:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ Minnesota Twins (07/25 8:11 Pm Et) Hd
+https://tvpass.org/live/mlb-20/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Minnesota Twins (07/25 8:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ Minnesota Twins (07/25 8:11 Pm Et) Sd
+https://tvpass.org/live/mlb-20/sd
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" group-title="MoveOnJoy" radio="false",5 StarMax
@@ -10752,6 +10812,11 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/29f80fe360ea0975
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/ab8b9702ccf7ff3fc8734fd4893333b8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImFiOGI5NzAyY2NmN2ZmM2ZjODczNGZkNDg5MzMzM2I4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ3Mjk4NH0.S0xFQU5FTUJFRA
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/05/31/1717194365738_dirtzone_thumbnail.png?impolicy=resize&w=1920&h=1080" ,DIRT Zone (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/d6b6af8271a5070af05d4ac99982648a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQ2YjZhZjgyNzFhNTA3MGFmMDVkNGFjOTk5ODI2NDhhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ3NDE3MH0.S0xFQU5FTUJFRA
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/03/17/1715300867054-64c720a301f24f34820b4c7143ff5bd2-1737996577673-1742219029838.webp?impolicy=resize&w=1920&h=1080" ,Dirtvision Now 24/7
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -10812,6 +10877,11 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/oI3uC8jF6yP2bW0z
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/a93005038b3194cadd8b393887698319.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImE5MzAwNTAzOGIzMTk0Y2FkZDhiMzkzODg3Njk4MzE5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ3Mjk4NH0.S0xFQU5FTUJFRA
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/04/15/7-25-25_LM-1744731559429.png?impolicy=resize&w=1920&h=1080" ,Fairbury Speedway (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/0f8d39e094ab3976fc93e774234cea4b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjBmOGQzOWUwOTRhYjM5NzZmYzkzZTc3NDIzNGNlYTRiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ3MzMzM30.S0xFQU5FTUJFRA
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/flo.png" ,Floracing TV 24/7
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -10882,6 +10952,11 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/92399eaa937b3e83
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/3599b87a6e70682b24184a3040a13fe8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjM1OTliODdhNmU3MDY4MmIyNDE4NGEzMDQwYTEzZmU4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ3Mjk4NH0.S0xFQU5FTUJFRA
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://www.trillertv.com/thumbs/vf/2phfr/halloffamefightnight_shanemosley-mattfloyd_1920x1080/mosley-vs-floyd-1600x900fit.webp" ,Hall of Fame Fight Night: Shane Mosley vs. Matt Floyd (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/5e7d8a870c1f85bc7097d6fe00c63db3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVlN2Q4YTg3MGMxZjg1YmM3MDk3ZDZmZTAwYzYzZGIzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ3MzY3N30.S0xFQU5FTUJFRA
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" ,History
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -11242,6 +11317,11 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/prObIniBoc7ltizE
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/d32d1e89796bc0ee8bf1a216bb3fa2ae.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQzMmQxZTg5Nzk2YmMwZWU4YmYxYTIxNmJiM2ZhMmFlIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ3Mjk4NX0.S0xFQU5FTUJFRA
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2024/12/04/7-25-25-SC-1733339027751.png?impolicy=resize&w=1920&h=1080" ,Williams Grove Speedway (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/2b4699e2a80cc5491f52818255355ea3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjJiNDY5OWUyYTgwY2M1NDkxZjUyODE4MjU1MzU1ZWEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ3MzUwOH0.S0xFQU5FTUJFRA
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/willow.png" ,Willow Cricket
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -13127,3 +13207,17 @@ https://ott.udptv.in/stream/udptv/vevocountry/master.m3u8?u=discord.gg/civ4&p=b4
 https://ott.udptv.in/stream/udptv/vevohiphop/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 #EXTINF:-1  tvg-name="Warner TV Serie DE" tvg-id="skyde/warnertvserie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/warner-tv-serie-de.png?raw=true" group-title="UDPTV Live Streams",Warner TV Serie DE
 https://ott.udptv.in/stream/udptv/vevorb/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTGRP:WNBA
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Dallas Wings @ Golden State Valkyries (07/25 10:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Dallas Wings @ Golden State Valkyries (07/25 10:00 Pm Et) Hd
+https://tvpass.org/live/WNBA03/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Dallas Wings @ Golden State Valkyries (07/25 10:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Dallas Wings @ Golden State Valkyries (07/25 10:00 Pm Et) Sd
+https://tvpass.org/live/WNBA03/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Las Vegas Aces @ Minnesota Lynx (07/25 7:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Las Vegas Aces @ Minnesota Lynx (07/25 7:30 Pm Et) Hd
+https://tvpass.org/live/WNBA02/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Las Vegas Aces @ Minnesota Lynx (07/25 7:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Las Vegas Aces @ Minnesota Lynx (07/25 7:30 Pm Et) Sd
+https://tvpass.org/live/WNBA02/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Phoenix Mercury @ New York Liberty (07/25 7:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Phoenix Mercury @ New York Liberty (07/25 7:30 Pm Et) Hd
+https://tvpass.org/live/WNBA01/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Phoenix Mercury @ New York Liberty (07/25 7:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Phoenix Mercury @ New York Liberty (07/25 7:30 Pm Et) Sd
+https://tvpass.org/live/WNBA01/sd
